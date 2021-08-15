@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="permission_denied_msg">Please allow location permission and try it again.</string>
+</resources>
