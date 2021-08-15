@@ -29,3 +29,7 @@ object Constants {
 //...
 }
 ```
+
+## Screenshots
+![alt tag](https://github.com/abadoliverco/weatherapp/blob/main/screenshots/main.png)
+![alt tag](https://github.com/abadoliverco/weatherapp/blob/main/screenshots/detail.png)
